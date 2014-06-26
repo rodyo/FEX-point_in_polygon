@@ -1,0 +1,7 @@
+Beat these: 
+
+http://www.mathworks.com/matlabcentral/fileexchange/15410-inpoly-mex-file
+http://www.mathworks.com/matlabcentral/fileexchange/20754-fast-inpolygon-detection-mex
+http://www.mathworks.com/matlabcentral/fileexchange/21621-find-point-position-in-2d-polygon
+http://www.mathworks.com/matlabcentral/fileexchange/10391-fast-points-in-polygon-test
+
